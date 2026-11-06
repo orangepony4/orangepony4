@@ -8,9 +8,9 @@
 
 [![Тесты Telegram Analyzer](https://github.com/orangepony4/telegram-analyzer/actions/workflows/test.yml/badge.svg)](https://github.com/orangepony4/telegram-analyzer/actions/workflows/test.yml)
 
-Анализирует JSON-экспорт переписки Telegram. Показывает активность по времени, статистику участников и интервалы между ответами. Обработка файла происходит в браузере.
+Анализирует JSON одного чата или выбранной переписки из общего экспорта Telegram. Показывает графики активности, статистику участников и интервалы между ответами. Графики и CSV работают офлайн.
 
-[Открыть демо в браузере](https://orangepony4.github.io/telegram-analyzer/)
+[Открыть демо в браузере](https://orangepony4.github.io/telegram-analyzer/) · [Скачать офлайн-версию](https://github.com/orangepony4/telegram-analyzer/releases/latest)
 
 #### [Palette Contrast](https://github.com/orangepony4/palette-contrast) · JavaScript
 
