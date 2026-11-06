@@ -18,7 +18,15 @@
 
 Проверяет контраст текста по WCAG 2.2 и показывает, какие цвета палитры подходят друг к другу. Выбранные цвета и матрицу можно сохранить в ссылке.
 
-[Открыть инструмент в браузере](https://orangepony4.github.io/palette-contrast/)
+[Открыть в браузере](https://orangepony4.github.io/palette-contrast/) · [Скачать офлайн-версию](https://github.com/orangepony4/palette-contrast/releases/latest)
+
+#### [Sprite Grid Inspector](https://github.com/orangepony4/sprite-grid-inspector) · JavaScript
+
+[![Тесты Sprite Grid Inspector](https://github.com/orangepony4/sprite-grid-inspector/actions/workflows/test.yml/badge.svg)](https://github.com/orangepony4/sprite-grid-inspector/actions/workflows/test.yml)
+
+Размечает PNG-листы игровых спрайтов, находит пустые ячейки и сохраняет отдельные кадры с прозрачностью или все непустые кадры одним ZIP.
+
+[Открыть в браузере](https://orangepony4.github.io/sprite-grid-inspector/) · [Скачать офлайн-версию](https://github.com/orangepony4/sprite-grid-inspector/releases/latest)
 
 #### [Archive Check](https://github.com/orangepony4/archive-check) · Node.js
 
