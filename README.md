@@ -1,6 +1,6 @@
 # orangepony4
 
-Открытые инструменты для локального анализа данных, проверки архивов и работы с игровыми ассетами.
+Открытые инструменты для локального анализа данных, проверки архивов, игровых ассетов и интерфейсов.
 
 ### Проекты
 
@@ -11,6 +11,14 @@
 Анализирует JSON-экспорт переписки Telegram. Показывает активность по времени, статистику участников и интервалы между ответами. Обработка файла происходит в браузере.
 
 [Открыть демо в браузере](https://orangepony4.github.io/telegram-analyzer/)
+
+#### [Palette Contrast](https://github.com/orangepony4/palette-contrast) · JavaScript
+
+[![Тесты Palette Contrast](https://github.com/orangepony4/palette-contrast/actions/workflows/test.yml/badge.svg)](https://github.com/orangepony4/palette-contrast/actions/workflows/test.yml)
+
+Проверяет контраст текста по WCAG 2.2 и показывает, какие цвета палитры подходят друг к другу. Выбранные цвета и матрицу можно сохранить в ссылке.
+
+[Открыть инструмент в браузере](https://orangepony4.github.io/palette-contrast/)
 
 #### [Archive Check](https://github.com/orangepony4/archive-check) · Node.js
 
