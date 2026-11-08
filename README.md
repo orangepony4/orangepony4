@@ -1,8 +1,16 @@
 # orangepony4
 
-Открытые инструменты для локального анализа данных, проверки архивов, игровых ассетов и интерфейсов.
+Открытые инструменты для доступности, локального анализа данных, проверки архивов, игровых ассетов и интерфейсов.
 
 ### Проекты
+
+#### [Nose Pointer](https://github.com/orangepony4/nose-pointer) · Python / Windows
+
+[![Тесты Nose Pointer](https://github.com/orangepony4/nose-pointer/actions/workflows/test.yml/badge.svg)](https://github.com/orangepony4/nose-pointer/actions/workflows/test.yml)
+
+Прототип управления мышью движением носа и подмигиваниями через веб-камеру. Есть калибровка, режим пробы и пауза по F8. Кадры обрабатываются локально.
+
+[Как запустить](https://github.com/orangepony4/nose-pointer#запуск-на-windows) · [Скачать v0.1.0](https://github.com/orangepony4/nose-pointer/releases/tag/v0.1.0)
 
 #### [Telegram Analyzer](https://github.com/orangepony4/telegram-analyzer) · JavaScript
 
