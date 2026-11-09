@@ -1,53 +1,101 @@
 # orangepony4
 
-Открытые инструменты для доступности, локального анализа данных, проверки архивов, игровых ассетов и интерфейсов.
+[Читать по-русски ↓](#русская-версия)
 
-### Проекты
+![An activity chart and a webcam pointer diagram](assets/project-index.svg)
 
-#### [Nose Pointer](https://github.com/orangepony4/nose-pointer) · Python / Windows
+Open-source tools for hands-free computer control, local data analysis and game development.
 
-[![Тесты Nose Pointer](https://github.com/orangepony4/nose-pointer/actions/workflows/test.yml/badge.svg)](https://github.com/orangepony4/nose-pointer/actions/workflows/test.yml)
+## Featured projects
 
-Прототип управления мышью движением носа и подмигиваниями через веб-камеру. Есть калибровка, режим пробы и пауза по F8. Кадры обрабатываются локально.
+### Telegram Analyzer
 
-[Как запустить](https://github.com/orangepony4/nose-pointer#запуск-на-windows) · [Скачать свежую версию](https://github.com/orangepony4/nose-pointer/releases)
+**Browser app · Offline ZIP**
 
-#### [Telegram Analyzer](https://github.com/orangepony4/telegram-analyzer) · JavaScript
+Turn a Telegram Desktop export into activity charts, reply-time statistics and participant CSVs. Open the built-in sample to explore the report. Your own exports are processed locally in the browser.
 
-[![Тесты Telegram Analyzer](https://github.com/orangepony4/telegram-analyzer/actions/workflows/test.yml/badge.svg)](https://github.com/orangepony4/telegram-analyzer/actions/workflows/test.yml)
+[![Try it here — Telegram Analyzer](assets/try-en.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
-Анализирует JSON одного чата или выбранной переписки из общего экспорта Telegram. Показывает графики активности, статистику участников и интервалы между ответами. Графики и CSV работают офлайн.
+[Source & guide](https://github.com/orangepony4/telegram-analyzer) · [Offline ZIP](https://github.com/orangepony4/telegram-analyzer/releases/latest)
 
-[Открыть демо в браузере](https://orangepony4.github.io/telegram-analyzer/) · [Скачать офлайн-версию](https://github.com/orangepony4/telegram-analyzer/releases/latest)
+### Nose Pointer
 
-#### [Palette Contrast](https://github.com/orangepony4/palette-contrast) · JavaScript
+**Windows · Webcam**
 
-[![Тесты Palette Contrast](https://github.com/orangepony4/palette-contrast/actions/workflows/test.yml/badge.svg)](https://github.com/orangepony4/palette-contrast/actions/workflows/test.yml)
+Move the pointer with your nose. Click with a wink or by holding the pointer still. Set the sensitivity in practice mode, then enable desktop control. Press **F8** to pause.
 
-Проверяет контраст текста по WCAG 2.2 и показывает, какие цвета палитры подходят друг к другу. Выбранные цвета и матрицу можно сохранить в ссылке.
+[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/releases)
 
-[Открыть в браузере](https://orangepony4.github.io/palette-contrast/) · [Скачать офлайн-версию](https://github.com/orangepony4/palette-contrast/releases/latest)
+[Source & setup guide](https://github.com/orangepony4/nose-pointer)
 
-#### [Sprite Grid Inspector](https://github.com/orangepony4/sprite-grid-inspector) · JavaScript
+## More tools
 
-[![Тесты Sprite Grid Inspector](https://github.com/orangepony4/sprite-grid-inspector/actions/workflows/test.yml/badge.svg)](https://github.com/orangepony4/sprite-grid-inspector/actions/workflows/test.yml)
+### Palette Contrast
 
-Размечает PNG-листы игровых спрайтов, находит пустые ячейки и сохраняет отдельные кадры с прозрачностью или все непустые кадры одним ZIP.
+Check text contrast against WCAG 2.2 and compare every pair in a UI palette. Save or share the palette in a link.
 
-[Открыть в браузере](https://orangepony4.github.io/sprite-grid-inspector/) · [Скачать офлайн-версию](https://github.com/orangepony4/sprite-grid-inspector/releases/latest)
+[![Try it here — Palette Contrast](assets/try-en.svg)](https://orangepony4.github.io/palette-contrast/)
 
-#### [Archive Check](https://github.com/orangepony4/archive-check) · Node.js
+[Source](https://github.com/orangepony4/palette-contrast) · [Offline ZIP](https://github.com/orangepony4/palette-contrast/releases/latest)
 
-[![Тесты Archive Check](https://github.com/orangepony4/archive-check/actions/workflows/test.yml/badge.svg)](https://github.com/orangepony4/archive-check/actions/workflows/test.yml)
+### Sprite Grid Inspector
 
-Проверяет целостность папок после копирования и восстановления. Создаёт SHA-256 манифест и находит пропавшие, изменённые и лишние файлы.
+Lay a grid over a PNG sprite sheet, find empty cells and export transparent frames individually or together in a ZIP.
 
-[Последний релиз](https://github.com/orangepony4/archive-check/releases/latest)
+[![Try it here — Sprite Grid Inspector](assets/try-en.svg)](https://orangepony4.github.io/sprite-grid-inspector/)
 
-#### [Texture Budget](https://github.com/orangepony4/texture-budget) · Node.js
+[Source](https://github.com/orangepony4/sprite-grid-inspector) · [Offline ZIP](https://github.com/orangepony4/sprite-grid-inspector/releases/latest)
 
-[![Тесты Texture Budget](https://github.com/orangepony4/texture-budget/actions/workflows/test.yml/badge.svg)](https://github.com/orangepony4/texture-budget/actions/workflows/test.yml)
+- **[Archive Check](https://github.com/orangepony4/archive-check)** builds SHA-256 manifests and flags missing, changed or extra files after a copy or restore. [Release](https://github.com/orangepony4/archive-check/releases/latest)
+- **[Texture Budget](https://github.com/orangepony4/texture-budget)** estimates texture memory for PNG, JPEG and WebP assets, including mipmaps. [Release](https://github.com/orangepony4/texture-budget/releases/latest)
 
-Проверяет размеры PNG, JPEG и WebP и оценивает расход памяти RGBA8 с учётом мипмапов перед импортом игровых ассетов.
+---
 
-[Последний релиз](https://github.com/orangepony4/texture-budget/releases/latest)
+## Русская версия
+
+[Read in English ↑](#orangepony4)
+
+Открытые инструменты для управления компьютером без рук, локального анализа данных и разработки игр.
+
+### Основные проекты
+
+#### Telegram Analyzer
+
+**Браузер · Офлайн-архив**
+
+Строит графики активности и статистику ответов по экспорту Telegram Desktop. Выгружает сводку по участникам в CSV. Чтобы познакомиться с отчётом, откройте встроенный пример. Свои переписки обрабатываются локально в браузере.
+
+[![Попробовать здесь — Telegram Analyzer](assets/try-ru.svg)](https://orangepony4.github.io/telegram-analyzer/)
+
+[Код и инструкция](https://github.com/orangepony4/telegram-analyzer) · [Офлайн-архив](https://github.com/orangepony4/telegram-analyzer/releases/latest)
+
+#### Nose Pointer
+
+**Windows · Веб-камера**
+
+Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. Подберите чувствительность в режиме пробы и включите управление рабочим столом. **F8** ставит управление на паузу.
+
+[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/releases)
+
+[Код и инструкция по запуску](https://github.com/orangepony4/nose-pointer)
+
+### Другие инструменты
+
+#### Palette Contrast
+
+Проверяет контраст текста по WCAG 2.2 и сравнивает все пары цветов в палитре интерфейса. Палитру можно сохранить в ссылке.
+
+[![Попробовать здесь — Palette Contrast](assets/try-ru.svg)](https://orangepony4.github.io/palette-contrast/)
+
+[Код](https://github.com/orangepony4/palette-contrast) · [Офлайн-архив](https://github.com/orangepony4/palette-contrast/releases/latest)
+
+#### Sprite Grid Inspector
+
+Накладывает сетку на PNG-лист спрайтов, находит пустые ячейки и сохраняет кадры с прозрачностью по отдельности или одним ZIP.
+
+[![Попробовать здесь — Sprite Grid Inspector](assets/try-ru.svg)](https://orangepony4.github.io/sprite-grid-inspector/)
+
+[Код](https://github.com/orangepony4/sprite-grid-inspector) · [Офлайн-архив](https://github.com/orangepony4/sprite-grid-inspector/releases/latest)
+
+- **[Archive Check](https://github.com/orangepony4/archive-check)** создаёт SHA-256 манифесты и находит пропавшие, изменённые и лишние файлы после копирования или восстановления. [Релиз](https://github.com/orangepony4/archive-check/releases/latest)
+- **[Texture Budget](https://github.com/orangepony4/texture-budget)** оценивает расход памяти текстурами PNG, JPEG и WebP с учётом мипмапов. [Релиз](https://github.com/orangepony4/texture-budget/releases/latest)
