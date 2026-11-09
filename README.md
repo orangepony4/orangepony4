@@ -12,7 +12,7 @@ Open-source tools for hands-free control, chat analysis and game development.
 
 **Browser app · Offline ZIP**
 
-Explore activity charts and CSVs with a built-in sample. Measure direct replies and see how many links could be matched. Your exports stay in the browser.
+Try the built-in sample, jump to any month with activity, or read the same totals in a table. Measure direct replies and download CSVs. Your exports stay in the browser.
 
 [![Try it here — Telegram Analyzer](assets/try-en.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
@@ -22,11 +22,11 @@ Explore activity charts and CSVs with a built-in sample. Measure direct replies 
 
 **Windows · Webcam**
 
-Move the pointer with your nose. Wink or hold the pointer still to click. The app remembers your sensitivity and click settings. Camera and pause controls stay visible while settings scroll. Press **F8** to pause.
+Move the pointer with your nose. Wink or hold the pointer still to click. Choose a camera in the app and practice before enabling mouse control. The app remembers your sensitivity and click settings. Press **F8** to pause.
 
-[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/releases)
+[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.9.0.zip)
 
-[Source & setup guide](https://github.com/orangepony4/nose-pointer)
+[Source & setup guide](https://github.com/orangepony4/nose-pointer) · [Release notes](https://github.com/orangepony4/nose-pointer/releases)
 
 ## More tools
 
@@ -63,7 +63,7 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 **Браузер · Офлайн-архив**
 
-Посмотрите графики и CSV на встроенном примере. Измерьте время прямых ответов и узнайте, сколько ссылок удалось сопоставить. Экспорты обрабатываются в браузере.
+Откройте встроенный пример, перейдите к нужному месяцу или посмотрите сводку активности в таблице. Измеряйте время прямых ответов и скачивайте CSV. Экспорты обрабатываются в браузере.
 
 [![Попробовать здесь — Telegram Analyzer](assets/try-ru.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
@@ -73,11 +73,11 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 **Windows · Веб-камера**
 
-Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. Программа запоминает чувствительность и настройки клика. Кнопки камеры и паузы видны при прокрутке. **F8** ставит управление на паузу.
+Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. Выберите камеру в приложении и потренируйтесь перед включением мыши. Программа запоминает чувствительность и настройки клика. **F8** ставит управление на паузу.
 
-[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/releases)
+[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.9.0.zip)
 
-[Код и инструкция по запуску](https://github.com/orangepony4/nose-pointer)
+[Код и инструкция по запуску](https://github.com/orangepony4/nose-pointer) · [Заметки к релизам](https://github.com/orangepony4/nose-pointer/releases)
 
 ### Другие инструменты
 
