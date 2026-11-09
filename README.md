@@ -12,7 +12,7 @@ Open-source tools for hands-free control, chat analysis and game development.
 
 **Browser app · Offline ZIP**
 
-Explore activity charts, reply times and CSVs with a built-in sample. Your Telegram exports stay in the browser.
+Explore activity charts and CSVs with a built-in sample. Use Telegram's reply links to measure response times. Your exports stay in the browser.
 
 [![Try it here — Telegram Analyzer](assets/try-en.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
@@ -22,7 +22,7 @@ Explore activity charts, reply times and CSVs with a built-in sample. Your Teleg
 
 **Windows · Webcam**
 
-Move the pointer with your nose. Click with a wink or by holding the pointer still. Set the sensitivity in practice mode, then enable desktop control. Press **F8** to pause.
+Move the pointer with your nose. Click with a wink or by holding the pointer still. Set sensitivity in practice mode. On small screens, the camera and pause controls stay visible as settings scroll. Press **F8** to pause.
 
 [![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/releases)
 
@@ -63,7 +63,7 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 **Браузер · Офлайн-архив**
 
-Посмотрите графики активности, время ответа и CSV на встроенном примере. Ваши переписки Telegram обрабатываются локально в браузере.
+Посмотрите графики и CSV на встроенном примере. Измерьте время ответа по ссылкам между сообщениями Telegram. Экспорты обрабатываются в браузере.
 
 [![Попробовать здесь — Telegram Analyzer](assets/try-ru.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
@@ -73,7 +73,7 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 **Windows · Веб-камера**
 
-Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. Подберите чувствительность в режиме пробы и включите управление рабочим столом. **F8** ставит управление на паузу.
+Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. Подберите чувствительность в режиме пробы. На небольшом экране кнопки камеры и паузы видны при прокрутке настроек. **F8** ставит управление на паузу.
 
 [![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/releases)
 
