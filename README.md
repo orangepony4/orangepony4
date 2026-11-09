@@ -1,10 +1,10 @@
 # orangepony4
 
+Open-source tools for hands-free control, chat analysis and game development.
+
 [Читать по-русски ↓](#русская-версия)
 
 ![An activity chart and a webcam pointer diagram](assets/project-index.svg)
-
-Open-source tools for hands-free computer control, local data analysis and game development.
 
 ## Featured projects
 
@@ -12,11 +12,11 @@ Open-source tools for hands-free computer control, local data analysis and game 
 
 **Browser app · Offline ZIP**
 
-Turn a Telegram Desktop export into activity charts, reply-time statistics and participant CSVs. Open the built-in sample to explore the report. Your own exports are processed locally in the browser.
+Explore activity charts, reply times and CSVs with a built-in sample. Your Telegram exports stay in the browser.
 
 [![Try it here — Telegram Analyzer](assets/try-en.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
-[Source & guide](https://github.com/orangepony4/telegram-analyzer) · [Offline ZIP](https://github.com/orangepony4/telegram-analyzer/releases/latest)
+[Analyze my export](https://orangepony4.github.io/telegram-analyzer/?view=upload) · [Source & guide](https://github.com/orangepony4/telegram-analyzer) · [Offline ZIP](https://github.com/orangepony4/telegram-analyzer/releases/latest)
 
 ### Nose Pointer
 
@@ -63,11 +63,11 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 **Браузер · Офлайн-архив**
 
-Строит графики активности и статистику ответов по экспорту Telegram Desktop. Выгружает сводку по участникам в CSV. Чтобы познакомиться с отчётом, откройте встроенный пример. Свои переписки обрабатываются локально в браузере.
+Посмотрите графики активности, время ответа и CSV на встроенном примере. Ваши переписки Telegram обрабатываются локально в браузере.
 
 [![Попробовать здесь — Telegram Analyzer](assets/try-ru.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
-[Код и инструкция](https://github.com/orangepony4/telegram-analyzer) · [Офлайн-архив](https://github.com/orangepony4/telegram-analyzer/releases/latest)
+[Разобрать свой экспорт](https://orangepony4.github.io/telegram-analyzer/?view=upload) · [Код и инструкция](https://github.com/orangepony4/telegram-analyzer) · [Офлайн-архив](https://github.com/orangepony4/telegram-analyzer/releases/latest)
 
 #### Nose Pointer
 
