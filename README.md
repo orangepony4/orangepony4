@@ -12,7 +12,7 @@ Open-source tools for hands-free control, chat analysis and game development.
 
 **Browser app · Offline ZIP**
 
-Explore activity charts and CSVs with a built-in sample. Use Telegram's reply links to measure response times. Your exports stay in the browser.
+Explore activity charts and CSVs with a built-in sample. Measure direct replies and see how many links could be matched. Your exports stay in the browser.
 
 [![Try it here — Telegram Analyzer](assets/try-en.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
@@ -22,7 +22,7 @@ Explore activity charts and CSVs with a built-in sample. Use Telegram's reply li
 
 **Windows · Webcam**
 
-Move the pointer with your nose. Click with a wink or by holding the pointer still. Set sensitivity in practice mode. On small screens, the camera and pause controls stay visible as settings scroll. Press **F8** to pause.
+Move the pointer with your nose. Wink or hold the pointer still to click. The app remembers your sensitivity and click settings. Camera and pause controls stay visible while settings scroll. Press **F8** to pause.
 
 [![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/releases)
 
@@ -63,7 +63,7 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 **Браузер · Офлайн-архив**
 
-Посмотрите графики и CSV на встроенном примере. Измерьте время ответа по ссылкам между сообщениями Telegram. Экспорты обрабатываются в браузере.
+Посмотрите графики и CSV на встроенном примере. Измерьте время прямых ответов и узнайте, сколько ссылок удалось сопоставить. Экспорты обрабатываются в браузере.
 
 [![Попробовать здесь — Telegram Analyzer](assets/try-ru.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
@@ -73,7 +73,7 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 **Windows · Веб-камера**
 
-Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. Подберите чувствительность в режиме пробы. На небольшом экране кнопки камеры и паузы видны при прокрутке настроек. **F8** ставит управление на паузу.
+Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. Программа запоминает чувствительность и настройки клика. Кнопки камеры и паузы видны при прокрутке. **F8** ставит управление на паузу.
 
 [![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/releases)
 
