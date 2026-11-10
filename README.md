@@ -12,7 +12,7 @@ Open-source tools for hands-free control, chat analysis and game development.
 
 **Browser app · Offline ZIP**
 
-Try the built-in chat or download its sample JSON to practice importing. Review activity and reactions by month. Export daily totals, reply timings, or reaction counts as CSV. Your exports stay in the browser.
+Try the built-in chat or download its sample JSON to practice importing. In an account export, read the full chat name and message count before analyzing it. Export daily totals, reply timings, or reaction counts as CSV. Your exports stay in the browser.
 
 [![Try it here — Telegram Analyzer](assets/try-en.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
@@ -24,7 +24,7 @@ Try the built-in chat or download its sample JSON to practice importing. Review 
 
 Move the pointer with your nose. Wink or hold the pointer still to click. On Windows x64, extract the ZIP and run **Start Nose Pointer.cmd**. The first launch needs internet. Choose your webcam and practice before enabling mouse control. Press **F8** to pause.
 
-[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.9.14.zip)
+[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.9.16.zip)
 
 [Source & setup guide](https://github.com/orangepony4/nose-pointer) · [Release notes](https://github.com/orangepony4/nose-pointer/releases)
 
@@ -40,7 +40,7 @@ Check text contrast against WCAG 2.2 and compare every pair in a UI palette. Sav
 
 ### Sprite Grid Inspector
 
-Lay a grid over a PNG sprite sheet, find empty cells and export transparent frames individually or together in a ZIP.
+Lay a grid over a PNG sprite sheet, find empty cells and export transparent frames individually or together in a ZIP. Switch between English and Russian in the header.
 
 [![Try it here — Sprite Grid Inspector](assets/try-en.svg)](https://orangepony4.github.io/sprite-grid-inspector/)
 
@@ -63,7 +63,7 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 **Браузер · Офлайн-архив**
 
-Откройте демо-чат или скачайте пример JSON, чтобы потренироваться с импортом. Смотрите активность и реакции по месяцам. Выгружайте число записей по дням, время ответов или количество реакций в CSV. Экспорты обрабатываются в браузере.
+Откройте демо-чат или скачайте пример JSON, чтобы потренироваться с импортом. В экспорте аккаунта полное название чата и число сообщений видны до запуска анализа. Выгружайте число записей по дням, время ответов или количество реакций в CSV. Экспорты обрабатываются в браузере.
 
 [![Попробовать здесь — Telegram Analyzer](assets/try-ru.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
@@ -75,7 +75,7 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. В Windows x64 распакуйте ZIP и запустите **Start Nose Pointer.cmd**. Для первого запуска нужен интернет. Выберите веб-камеру и потренируйтесь перед включением мыши. **F8** ставит управление на паузу.
 
-[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.9.14.zip)
+[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.9.16.zip)
 
 [Код и инструкция по запуску](https://github.com/orangepony4/nose-pointer) · [Заметки к релизам](https://github.com/orangepony4/nose-pointer/releases)
 
@@ -91,7 +91,7 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 #### Sprite Grid Inspector
 
-Накладывает сетку на PNG-лист спрайтов, находит пустые ячейки и сохраняет кадры с прозрачностью по отдельности или одним ZIP.
+Накладывает сетку на PNG-лист спрайтов, находит пустые ячейки и сохраняет кадры с прозрачностью по отдельности или одним ZIP. Выберите английский или русский в шапке.
 
 [![Попробовать здесь — Sprite Grid Inspector](assets/try-ru.svg)](https://orangepony4.github.io/sprite-grid-inspector/)
 
