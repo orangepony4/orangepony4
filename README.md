@@ -14,7 +14,7 @@ Open-source tools for hands-free control, chat analysis and game development.
 
 [![Try it here — Telegram Analyzer](assets/try-en.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
-Try the built-in chat or open a Telegram Desktop JSON file. The import shows reading progress when the browser can measure it. Filter an account export by name and chat type. The chooser shows the full chat name and message count. Read message type counts in a table or export them as CSV. Files stay in your browser.
+Try the built-in chat or open a Telegram Desktop JSON file. The import shows reading progress when the browser can measure it. Filter an account export by name and chat type, with the full chat name and message count shown. Save activity charts as PNG or export message type counts as CSV. Files stay in your browser.
 
 [Analyze my export](https://orangepony4.github.io/telegram-analyzer/?view=upload) · [Source & guide](https://github.com/orangepony4/telegram-analyzer) · [Offline ZIP](https://github.com/orangepony4/telegram-analyzer/releases/latest)
 
@@ -22,17 +22,17 @@ Try the built-in chat or open a Telegram Desktop JSON file. The import shows rea
 
 **Windows · Webcam**
 
-[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.10.4.zip)
+[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.11.1.zip)
 
-Move the pointer with your nose. Wink or hold the pointer still to click. On Windows 10 or 11 (x64), extract the ZIP and run **Start Nose Pointer.cmd**. The first setup needs internet. Nose Pointer remembers the camera number after practice calibration. Press **F8** to pause.
+Move the pointer with your nose. Wink or hold the pointer still to click. Dwell can use one open eye. On Windows 10 or 11 (x64), extract the ZIP and run **Start Nose Pointer.cmd**. The first setup needs internet. Nose Pointer remembers the camera number after practice calibration. Press **F8** to pause.
 
-[Setup guide](https://github.com/orangepony4/nose-pointer#install-on-windows) · [Check setup with camera off](https://github.com/orangepony4/nose-pointer#privacy-and-testing) · [Release notes](https://github.com/orangepony4/nose-pointer/releases)
+[Setup guide](https://github.com/orangepony4/nose-pointer#install-on-windows) · [Dwell with one eye](https://github.com/orangepony4/nose-pointer#dwell-with-one-eye-open) · [Check setup with camera off](https://github.com/orangepony4/nose-pointer#privacy-and-testing) · [Release notes](https://github.com/orangepony4/nose-pointer/releases)
 
 ## More tools
 
 ### Palette Contrast
 
-Check text contrast against WCAG 2.2 and compare every pair in a UI palette. Save or share the palette in a link. Switch between English and Russian in the header.
+Check text contrast against WCAG 2.2 and compare every pair in a UI palette. The text colors stay visible as you scroll the matrix. Save or share the palette in a link.
 
 [![Try it here — Palette Contrast](assets/try-en.svg)](https://orangepony4.github.io/palette-contrast/)
 
@@ -65,7 +65,7 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 [![Попробовать здесь — Telegram Analyzer](assets/try-ru.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
-Откройте демо-чат или загрузите JSON из Telegram Desktop. При чтении виден процент, если браузер может его вычислить. В экспорте аккаунта можно искать по названию и типу чата. Полное название и число сообщений видны до запуска анализа. Число сообщений по типам можно посмотреть в таблице или выгрузить в CSV. Файлы обрабатываются в браузере.
+Откройте демо-чат или загрузите JSON из Telegram Desktop. При чтении виден процент, если браузер может его вычислить. В экспорте аккаунта можно искать по названию и типу чата. Полное название и число сообщений видны до запуска анализа. Графики активности можно сохранить в PNG, а число сообщений по типам — выгрузить в CSV. Файлы обрабатываются в браузере.
 
 [Разобрать свой экспорт](https://orangepony4.github.io/telegram-analyzer/?view=upload) · [Код и инструкция](https://github.com/orangepony4/telegram-analyzer) · [Офлайн-архив](https://github.com/orangepony4/telegram-analyzer/releases/latest)
 
@@ -73,17 +73,17 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 **Windows · Веб-камера**
 
-[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.10.4.zip)
+[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.11.1.zip)
 
-Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. В Windows 10 или 11 (x64) распакуйте ZIP и запустите **Start Nose Pointer.cmd**. Для первой установки нужен интернет. После калибровки в режиме пробы Nose Pointer запоминает номер камеры. **F8** ставит управление на паузу.
+Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. Клик по задержке доступен с одним открытым глазом. В Windows 10 или 11 (x64) распакуйте ZIP и запустите **Start Nose Pointer.cmd**. Для первой установки нужен интернет. После калибровки в режиме пробы Nose Pointer запоминает номер камеры. **F8** ставит управление на паузу.
 
-[Инструкция по запуску](https://github.com/orangepony4/nose-pointer#запуск-на-windows) · [Проверить установку без камеры](https://github.com/orangepony4/nose-pointer#приватность-и-проверки) · [Заметки к релизам](https://github.com/orangepony4/nose-pointer/releases)
+[Инструкция по запуску](https://github.com/orangepony4/nose-pointer#запуск-на-windows) · [Задержка с одним глазом](https://github.com/orangepony4/nose-pointer#задержка-с-одним-открытым-глазом) · [Проверить установку без камеры](https://github.com/orangepony4/nose-pointer#приватность-и-проверки) · [Заметки к релизам](https://github.com/orangepony4/nose-pointer/releases)
 
 ### Другие инструменты
 
 #### Palette Contrast
 
-Проверяет контраст текста по WCAG 2.2 и сравнивает все пары цветов в палитре интерфейса. Палитру можно сохранить в ссылке. Выберите английский или русский в шапке.
+Проверяет контраст текста по WCAG 2.2 и сравнивает все пары цветов в палитре интерфейса. При прокрутке матрицы цвета текста остаются видимыми. Палитру можно сохранить в ссылке.
 
 [![Попробовать здесь — Palette Contrast](assets/try-ru.svg)](https://orangepony4.github.io/palette-contrast/)
 
