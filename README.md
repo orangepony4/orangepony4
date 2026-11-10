@@ -12,7 +12,7 @@ Open-source tools for hands-free control, chat analysis and game development.
 
 **Browser app · Offline ZIP**
 
-Try the built-in sample or find a chat by name in an account export. Read activity by date, weekday or hour, and export daily totals or reply timings as CSV. Your exports stay in the browser.
+Try the built-in chat or download its sample JSON to practice importing. Review activity and reactions by month. Export daily totals, reply timings, or reaction counts as CSV. Your exports stay in the browser.
 
 [![Try it here — Telegram Analyzer](assets/try-en.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
@@ -22,9 +22,9 @@ Try the built-in sample or find a chat by name in an account export. Read activi
 
 **Windows · Webcam**
 
-Move the pointer with your nose. Wink or hold the pointer still to click. Choose your webcam in the app and practice before enabling mouse control. The app remembers your sensitivity and click settings. Press **F8** to pause.
+Move the pointer with your nose. Wink or hold the pointer still to click. On Windows x64, extract the ZIP and run **Start Nose Pointer.cmd**. The first launch needs internet. Choose your webcam and practice before enabling mouse control. Press **F8** to pause.
 
-[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.9.9.zip)
+[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.9.14.zip)
 
 [Source & setup guide](https://github.com/orangepony4/nose-pointer) · [Release notes](https://github.com/orangepony4/nose-pointer/releases)
 
@@ -32,7 +32,7 @@ Move the pointer with your nose. Wink or hold the pointer still to click. Choose
 
 ### Palette Contrast
 
-Check text contrast against WCAG 2.2 and compare every pair in a UI palette. Save or share the palette in a link.
+Check text contrast against WCAG 2.2 and compare every pair in a UI palette. Save or share the palette in a link. Switch between English and Russian in the header.
 
 [![Try it here — Palette Contrast](assets/try-en.svg)](https://orangepony4.github.io/palette-contrast/)
 
@@ -63,7 +63,7 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 **Браузер · Офлайн-архив**
 
-Откройте встроенный пример или найдите переписку по названию в экспорте аккаунта. Смотрите активность по датам, дням недели и часам, выгружайте число записей по дням или время ответов в CSV. Экспорты обрабатываются в браузере.
+Откройте демо-чат или скачайте пример JSON, чтобы потренироваться с импортом. Смотрите активность и реакции по месяцам. Выгружайте число записей по дням, время ответов или количество реакций в CSV. Экспорты обрабатываются в браузере.
 
 [![Попробовать здесь — Telegram Analyzer](assets/try-ru.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
@@ -73,9 +73,9 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 **Windows · Веб-камера**
 
-Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. Выберите веб-камеру в приложении и потренируйтесь перед включением мыши. Программа запоминает чувствительность и настройки клика. **F8** ставит управление на паузу.
+Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. В Windows x64 распакуйте ZIP и запустите **Start Nose Pointer.cmd**. Для первого запуска нужен интернет. Выберите веб-камеру и потренируйтесь перед включением мыши. **F8** ставит управление на паузу.
 
-[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.9.9.zip)
+[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.9.14.zip)
 
 [Код и инструкция по запуску](https://github.com/orangepony4/nose-pointer) · [Заметки к релизам](https://github.com/orangepony4/nose-pointer/releases)
 
@@ -83,7 +83,7 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 #### Palette Contrast
 
-Проверяет контраст текста по WCAG 2.2 и сравнивает все пары цветов в палитре интерфейса. Палитру можно сохранить в ссылке.
+Проверяет контраст текста по WCAG 2.2 и сравнивает все пары цветов в палитре интерфейса. Палитру можно сохранить в ссылке. Выберите английский или русский в шапке.
 
 [![Попробовать здесь — Palette Contrast](assets/try-ru.svg)](https://orangepony4.github.io/palette-contrast/)
 
