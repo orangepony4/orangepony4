@@ -12,9 +12,9 @@ Open-source tools for hands-free control, chat analysis and game development.
 
 **Browser app · Offline ZIP**
 
-Try the built-in chat or open a Telegram Desktop JSON file. Filter an account export by name and chat type. The chooser shows the full chat name and message count. Read message types in a table and export their counts, activity, reply times, or reactions as CSV. Files stay in your browser.
-
 [![Try it here — Telegram Analyzer](assets/try-en.svg)](https://orangepony4.github.io/telegram-analyzer/)
+
+Try the built-in chat or open a Telegram Desktop JSON file. Filter an account export by name and chat type. The chooser shows the full chat name and message count. Read message types in a table and export their counts, activity, reply times, or reactions as CSV. Files stay in your browser.
 
 [Analyze my export](https://orangepony4.github.io/telegram-analyzer/?view=upload) · [Source & guide](https://github.com/orangepony4/telegram-analyzer) · [Offline ZIP](https://github.com/orangepony4/telegram-analyzer/releases/latest)
 
@@ -22,9 +22,9 @@ Try the built-in chat or open a Telegram Desktop JSON file. Filter an account ex
 
 **Windows · Webcam**
 
-Move the pointer with your nose. Wink or hold the pointer still to click. On Windows 10 or 11 (x64), extract the ZIP and run **Start Nose Pointer.cmd**. The first setup needs internet. Nose Pointer remembers the camera number after practice calibration. Press **F8** to pause.
-
 [![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.10.2.zip)
+
+Move the pointer with your nose. Wink or hold the pointer still to click. On Windows 10 or 11 (x64), extract the ZIP and run **Start Nose Pointer.cmd**. The first setup needs internet. Nose Pointer remembers the camera number after practice calibration. Press **F8** to pause.
 
 [Setup guide](https://github.com/orangepony4/nose-pointer#install-on-windows) · [Check setup with camera off](https://github.com/orangepony4/nose-pointer#privacy-and-testing) · [Release notes](https://github.com/orangepony4/nose-pointer/releases)
 
@@ -63,9 +63,9 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 **Браузер · Офлайн-архив**
 
-Откройте демо-чат или загрузите JSON из Telegram Desktop. В экспорте аккаунта можно искать по названию и типу чата. Полное название и число сообщений видны до запуска анализа. Смотрите типы сообщений в таблице и выгружайте число записей по типам, активность, время ответов или количество реакций в CSV. Файлы обрабатываются в браузере.
-
 [![Попробовать здесь — Telegram Analyzer](assets/try-ru.svg)](https://orangepony4.github.io/telegram-analyzer/)
+
+Откройте демо-чат или загрузите JSON из Telegram Desktop. В экспорте аккаунта можно искать по названию и типу чата. Полное название и число сообщений видны до запуска анализа. Смотрите типы сообщений в таблице и выгружайте число записей по типам, активность, время ответов или количество реакций в CSV. Файлы обрабатываются в браузере.
 
 [Разобрать свой экспорт](https://orangepony4.github.io/telegram-analyzer/?view=upload) · [Код и инструкция](https://github.com/orangepony4/telegram-analyzer) · [Офлайн-архив](https://github.com/orangepony4/telegram-analyzer/releases/latest)
 
@@ -73,9 +73,9 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 **Windows · Веб-камера**
 
-Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. В Windows 10 или 11 (x64) распакуйте ZIP и запустите **Start Nose Pointer.cmd**. Для первой установки нужен интернет. После калибровки в режиме пробы Nose Pointer запоминает номер камеры. **F8** ставит управление на паузу.
-
 [![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.10.2.zip)
+
+Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. В Windows 10 или 11 (x64) распакуйте ZIP и запустите **Start Nose Pointer.cmd**. Для первой установки нужен интернет. После калибровки в режиме пробы Nose Pointer запоминает номер камеры. **F8** ставит управление на паузу.
 
 [Инструкция по запуску](https://github.com/orangepony4/nose-pointer#запуск-на-windows) · [Проверить установку без камеры](https://github.com/orangepony4/nose-pointer#приватность-и-проверки) · [Заметки к релизам](https://github.com/orangepony4/nose-pointer/releases)
 
