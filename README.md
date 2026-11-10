@@ -12,7 +12,7 @@ Open-source tools for hands-free control, chat analysis and game development.
 
 **Browser app · Offline ZIP**
 
-Try the built-in chat or download its sample JSON to practice importing. In an account export, read the full chat name and message count before analyzing it. Export daily totals, reply timings, or reaction counts as CSV. Your exports stay in the browser.
+Try the built-in chat or import its sample JSON. In an account export, check the full chat name and message count before opening a report. See short reply times in seconds. Download daily totals, reply timings, or reaction counts as CSV. Your exports stay in the browser.
 
 [![Try it here — Telegram Analyzer](assets/try-en.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
@@ -22,11 +22,11 @@ Try the built-in chat or download its sample JSON to practice importing. In an a
 
 **Windows · Webcam**
 
-Move the pointer with your nose. Wink or hold the pointer still to click. On Windows x64, extract the ZIP and run **Start Nose Pointer.cmd**. The first launch needs internet. Choose your webcam and practice before enabling mouse control. Press **F8** to pause.
+Move the pointer with your nose. Wink or hold the pointer still to click. On Windows 10 or 11 (x64), extract the ZIP and run **Start Nose Pointer.cmd**. The first setup needs internet. Choose your webcam and start in practice mode. Press **F8** to pause.
 
-[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.9.16.zip)
+[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.9.19.zip)
 
-[Source & setup guide](https://github.com/orangepony4/nose-pointer) · [Release notes](https://github.com/orangepony4/nose-pointer/releases)
+[Setup guide](https://github.com/orangepony4/nose-pointer#install-on-windows) · [Check setup with camera off](https://github.com/orangepony4/nose-pointer#privacy-and-testing) · [Release notes](https://github.com/orangepony4/nose-pointer/releases)
 
 ## More tools
 
@@ -63,7 +63,7 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 **Браузер · Офлайн-архив**
 
-Откройте демо-чат или скачайте пример JSON, чтобы потренироваться с импортом. В экспорте аккаунта полное название чата и число сообщений видны до запуска анализа. Выгружайте число записей по дням, время ответов или количество реакций в CSV. Экспорты обрабатываются в браузере.
+Откройте демо-чат или импортируйте его JSON. В экспорте аккаунта полное название чата и число сообщений видны до запуска анализа. Короткое время ответа показано в секундах. Выгружайте число записей по дням, время ответов или количество реакций в CSV. Файлы обрабатываются в браузере.
 
 [![Попробовать здесь — Telegram Analyzer](assets/try-ru.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
@@ -73,11 +73,11 @@ Lay a grid over a PNG sprite sheet, find empty cells and export transparent fram
 
 **Windows · Веб-камера**
 
-Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. В Windows x64 распакуйте ZIP и запустите **Start Nose Pointer.cmd**. Для первого запуска нужен интернет. Выберите веб-камеру и потренируйтесь перед включением мыши. **F8** ставит управление на паузу.
+Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. В Windows 10 или 11 (x64) распакуйте ZIP и запустите **Start Nose Pointer.cmd**. Для первой установки нужен интернет. Выберите веб-камеру и начните с тренировки. **F8** ставит управление на паузу.
 
-[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.9.16.zip)
+[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.9.19.zip)
 
-[Код и инструкция по запуску](https://github.com/orangepony4/nose-pointer) · [Заметки к релизам](https://github.com/orangepony4/nose-pointer/releases)
+[Инструкция по запуску](https://github.com/orangepony4/nose-pointer#запуск-на-windows) · [Проверить установку без камеры](https://github.com/orangepony4/nose-pointer#приватность-и-проверки) · [Заметки к релизам](https://github.com/orangepony4/nose-pointer/releases)
 
 ### Другие инструменты
 
