@@ -22,7 +22,7 @@ Try the sample chat or open a Telegram Desktop JSON export. Compare median and a
 
 **Windows · Webcam**
 
-[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.12.8.zip)
+[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.12.9.zip)
 
 Move the pointer with your nose. Wink or hold the pointer still to click. **Motion only** lets you combine nose movement with a separate mouse button. On Windows 10 or 11 (x64), extract the ZIP and run **Start Nose Pointer.cmd**. The first setup needs internet. Press **F8** to pause.
 
@@ -73,7 +73,7 @@ Lay a grid over a PNG sprite sheet and find empty cells. The selection stays in 
 
 **Windows · Веб-камера**
 
-[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.12.8.zip)
+[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.12.9.zip)
 
 Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. В режиме **«Только движение»** можно пользоваться отдельной кнопкой мыши. В Windows 10 или 11 (x64) распакуйте ZIP и запустите **Start Nose Pointer.cmd**. Для первой установки нужен интернет. **F8** ставит управление на паузу.
 
