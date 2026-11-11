@@ -14,7 +14,7 @@ Open-source tools for hands-free control, chat analysis and game development.
 
 [![Try it here — Telegram Analyzer](assets/try-en.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
-Try the sample chat or open a Telegram Desktop JSON export. Find participants by name, sort by messages or words, and save the visible rows as CSV. Switch to Table view, print the report, or save activity and message-type charts as PNG. Files stay in your browser.
+Try the sample chat or open a Telegram Desktop JSON export. Find participants by name and save the visible rows as CSV. Download activity by weekday and hour, print the report, or save charts as PNG. Files stay in your browser.
 
 [Analyze my export](https://orangepony4.github.io/telegram-analyzer/?view=upload) · [Source & guide](https://github.com/orangepony4/telegram-analyzer) · [Offline ZIP](https://github.com/orangepony4/telegram-analyzer/releases/latest)
 
@@ -22,9 +22,9 @@ Try the sample chat or open a Telegram Desktop JSON export. Find participants by
 
 **Windows · Webcam**
 
-[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.12.6.zip)
+[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.12.7.zip)
 
-Move the pointer with your nose. Wink or hold the pointer still to click. Use **Recalibrate** above the practice pad after changing position. On Windows 10 or 11 (x64), extract the ZIP and run **Start Nose Pointer.cmd**. The first setup needs internet. Press **F8** to pause.
+Move the pointer with your nose. Wink or hold the pointer still to click. In practice mode, choose mirrored or direct movement under **Horizontal movement**. On Windows 10 or 11 (x64), extract the ZIP and run **Start Nose Pointer.cmd**. The first setup needs internet. Press **F8** to pause.
 
 [Setup guide](https://github.com/orangepony4/nose-pointer#install-on-windows) · [Dwell with one eye](https://github.com/orangepony4/nose-pointer#dwell-with-one-eye-open) · [Check setup with camera off](https://github.com/orangepony4/nose-pointer#privacy-and-testing) · [Release notes](https://github.com/orangepony4/nose-pointer/releases)
 
@@ -65,7 +65,7 @@ Lay a grid over a PNG sprite sheet, including narrow strips, and find empty cell
 
 [![Попробовать здесь — Telegram Analyzer](assets/try-ru.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
-Откройте демо-чат или загрузите JSON из Telegram Desktop. Ищите участников по имени, сортируйте по числу сообщений или слов и сохраняйте видимые строки в CSV. Читайте отчёт в режиме таблиц или распечатайте его. Графики активности и типов сообщений можно сохранить в PNG. Файлы обрабатываются в браузере.
+Откройте демо-чат или загрузите JSON из Telegram Desktop. Ищите участников по имени и сохраняйте видимые строки в CSV. Выгружайте активность по дням недели и часам, печатайте отчёт или сохраняйте графики в PNG. Файлы обрабатываются в браузере.
 
 [Разобрать свой экспорт](https://orangepony4.github.io/telegram-analyzer/?view=upload) · [Код и инструкция](https://github.com/orangepony4/telegram-analyzer) · [Офлайн-архив](https://github.com/orangepony4/telegram-analyzer/releases/latest)
 
@@ -73,9 +73,9 @@ Lay a grid over a PNG sprite sheet, including narrow strips, and find empty cell
 
 **Windows · Веб-камера**
 
-[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.12.6.zip)
+[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.12.7.zip)
 
-Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. Если изменили положение, нажмите **«Калибровать заново»** над тестовым полем. В Windows 10 или 11 (x64) распакуйте ZIP и запустите **Start Nose Pointer.cmd**. Для первой установки нужен интернет. **F8** ставит управление на паузу.
+Двигайте указатель носом, щёлкайте подмигиванием или задержкой на цели. В режиме пробы выберите зеркальное или прямое движение в настройке **«По горизонтали»**. В Windows 10 или 11 (x64) распакуйте ZIP и запустите **Start Nose Pointer.cmd**. Для первой установки нужен интернет. **F8** ставит управление на паузу.
 
 [Инструкция по запуску](https://github.com/orangepony4/nose-pointer#запуск-на-windows) · [Задержка с одним глазом](https://github.com/orangepony4/nose-pointer#задержка-с-одним-открытым-глазом) · [Проверить установку без камеры](https://github.com/orangepony4/nose-pointer#приватность-и-проверки) · [Заметки к релизам](https://github.com/orangepony4/nose-pointer/releases)
 
