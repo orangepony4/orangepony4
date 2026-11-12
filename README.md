@@ -14,7 +14,7 @@ Open-source tools for hands-free control, chat analysis and game development.
 
 [![Try it here — Telegram Analyzer](assets/try-en.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
-Try the sample chat or open a Telegram Desktop JSON export. Compare median and average reply times by pair and export the table as CSV. Save activity and reply charts as PNG. Files stay in your browser.
+Try the sample chat or open a Telegram Desktop JSON export. Compare median and average reply times by pair, filter by participant, and export the results as CSV. Download participant activity by month or save charts as PNG. Files stay in your browser.
 
 [Analyze my export](https://orangepony4.github.io/telegram-analyzer/?view=upload) · [Source & guide](https://github.com/orangepony4/telegram-analyzer) · [Offline ZIP](https://github.com/orangepony4/telegram-analyzer/releases/latest)
 
@@ -22,9 +22,9 @@ Try the sample chat or open a Telegram Desktop JSON export. Compare median and a
 
 **Windows · Webcam**
 
-[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.14.0.zip)
+[![Download for Windows — Nose Pointer](assets/windows-en.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.15.0.zip)
 
-Move the pointer with your nose. Choose the eye for left clicks and set how long to hold a wink, or click by holding the pointer still. **Motion only** lets you combine nose movement with a separate mouse button. On Windows 10 or 11 (x64), extract the ZIP and run **Start Nose Pointer.cmd**. The first setup needs internet. Press **F8** to pause.
+Move the pointer with your nose. Choose the eye for left clicks and set how long to hold a wink. Practice mode tells you when to reopen your eye. You can also use dwell clicks or **Motion only**. On Windows 10 or 11 (x64), extract the ZIP and run **Start Nose Pointer.cmd**. The first setup needs internet. Press **F8** to pause.
 
 [Setup guide](https://github.com/orangepony4/nose-pointer#install-on-windows) · [Practice preview](https://github.com/orangepony4/nose-pointer#start-in-practice-mode) · [Dwell with one eye](https://github.com/orangepony4/nose-pointer#dwell-with-one-eye-open) · [Check setup with camera off](https://github.com/orangepony4/nose-pointer#privacy-and-testing) · [Release notes](https://github.com/orangepony4/nose-pointer/releases)
 
@@ -32,7 +32,7 @@ Move the pointer with your nose. Choose the eye for left clicks and set how long
 
 ### Palette Contrast
 
-Check text contrast against WCAG 2.2 and compare every pair in a UI palette. The text colors stay visible as you scroll the matrix. Save or share the palette in a link.
+Check text contrast against WCAG 2.2 and compare every pair in a UI palette. Download the matrix as CSV with unrounded ratios and pass flags, or share the palette in a link.
 
 [![Try it here — Palette Contrast](assets/try-en.svg)](https://orangepony4.github.io/palette-contrast/)
 
@@ -40,7 +40,7 @@ Check text contrast against WCAG 2.2 and compare every pair in a UI palette. The
 
 ### Sprite Grid Inspector
 
-Lay a grid over a PNG sprite sheet and find empty cells. Export transparent frames individually or in a ZIP. Reopen saved grid settings from JSON. Switch between English and Russian in the header.
+Lay a grid over a PNG sprite sheet, find empty cells, and play a row as an animation. Export transparent frames individually or in a ZIP. Reopen saved grid settings from JSON.
 
 [![Try it here — Sprite Grid Inspector](assets/try-en.svg)](https://orangepony4.github.io/sprite-grid-inspector/)
 
@@ -65,7 +65,7 @@ Lay a grid over a PNG sprite sheet and find empty cells. Export transparent fram
 
 [![Попробовать здесь — Telegram Analyzer](assets/try-ru.svg)](https://orangepony4.github.io/telegram-analyzer/)
 
-Откройте демо-чат или загрузите JSON из Telegram Desktop. Сравнивайте медиану и среднее время ответа по парам и выгружайте таблицу в CSV. Графики активности и времени ответа можно сохранить в PNG. Файлы обрабатываются в браузере.
+Откройте демо-чат или загрузите JSON из Telegram Desktop. Сравнивайте медиану и среднее время ответа по парам, ищите пары по участнику и выгружайте результат в CSV. Активность участников можно скачать по месяцам, а графики сохранить в PNG. Файлы обрабатываются в браузере.
 
 [Разобрать свой экспорт](https://orangepony4.github.io/telegram-analyzer/?view=upload) · [Код и инструкция](https://github.com/orangepony4/telegram-analyzer) · [Офлайн-архив](https://github.com/orangepony4/telegram-analyzer/releases/latest)
 
@@ -73,9 +73,9 @@ Lay a grid over a PNG sprite sheet and find empty cells. Export transparent fram
 
 **Windows · Веб-камера**
 
-[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.14.0.zip)
+[![Скачать для Windows — Nose Pointer](assets/windows-ru.svg)](https://github.com/orangepony4/nose-pointer/archive/refs/tags/v0.15.0.zip)
 
-Двигайте указатель носом. Выберите глаз для левого клика и длительность подмигивания или щёлкайте задержкой на цели. В режиме **«Только движение»** можно пользоваться отдельной кнопкой мыши. В Windows 10 или 11 (x64) распакуйте ZIP и запустите **Start Nose Pointer.cmd**. Для первой установки нужен интернет. **F8** ставит управление на паузу.
+Двигайте указатель носом. Выберите глаз для левого клика и длительность подмигивания. Режим пробы подскажет, когда открыть глаз. Также доступны клик задержкой и режим **«Только движение»**. В Windows 10 или 11 (x64) распакуйте ZIP и запустите **Start Nose Pointer.cmd**. Для первой установки нужен интернет. **F8** ставит управление на паузу.
 
 [Инструкция по запуску](https://github.com/orangepony4/nose-pointer#запуск-на-windows) · [Окно режима пробы](https://github.com/orangepony4/nose-pointer#первое-использование) · [Задержка с одним глазом](https://github.com/orangepony4/nose-pointer#задержка-с-одним-открытым-глазом) · [Проверить установку без камеры](https://github.com/orangepony4/nose-pointer#приватность-и-проверки) · [Заметки к релизам](https://github.com/orangepony4/nose-pointer/releases)
 
@@ -83,7 +83,7 @@ Lay a grid over a PNG sprite sheet and find empty cells. Export transparent fram
 
 #### Palette Contrast
 
-Проверяет контраст текста по WCAG 2.2 и сравнивает все пары цветов в палитре интерфейса. При прокрутке матрицы цвета текста остаются видимыми. Палитру можно сохранить в ссылке.
+Проверяет контраст текста по WCAG 2.2 и сравнивает все пары цветов в палитре интерфейса. Матрицу можно скачать в CSV с коэффициентами без округления и результатами проверки, а палитрой поделиться по ссылке.
 
 [![Попробовать здесь — Palette Contrast](assets/try-ru.svg)](https://orangepony4.github.io/palette-contrast/)
 
@@ -91,7 +91,7 @@ Lay a grid over a PNG sprite sheet and find empty cells. Export transparent fram
 
 #### Sprite Grid Inspector
 
-Накладывает сетку на PNG-лист спрайтов и находит пустые ячейки. Сохраняет кадры с прозрачностью по отдельности или одним ZIP. Настройки сетки можно восстановить из JSON. Выберите английский или русский в шапке.
+Накладывает сетку на PNG-лист спрайтов, находит пустые ячейки и проигрывает строку как анимацию. Сохраняет кадры с прозрачностью по отдельности или одним ZIP. Настройки сетки можно восстановить из JSON.
 
 [![Попробовать здесь — Sprite Grid Inspector](assets/try-ru.svg)](https://orangepony4.github.io/sprite-grid-inspector/)
 
